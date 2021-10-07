@@ -1,5 +1,5 @@
 {
-    "name": "testy1",
+    "name": "test3",
     "dependencies": {
         "core": "*",
         "builder": "*"
