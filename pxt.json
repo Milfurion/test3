@@ -1,0 +1,27 @@
+{
+    "name": "testy1",
+    "dependencies": {
+        "core": "*",
+        "builder": "*"
+    },
+    "files": [
+        "README.md",
+        "eksperymenty/Lekcja_pokazowa.md",
+        "eksperymenty/Lekcja_pokazowa1.md",
+        "eksperymenty/Lekcja_pokazowa2.md",
+        "eksperymenty/Lekcja_pokazowa3.md",
+        "eksperymenty/Lekcja_pokazowa4.md",
+        "eksperymenty/Lekcja_pokazowa5.md",
+        "eksperymenty/Lekcja_pokazowa6.md",
+        "eksperymenty/unit_3_LC.md",
+        "main.blocks",
+        "main.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "minecraft"
+    ],
+    "preferredEditor": "blocksprj"
+}
